@@ -1,4 +1,5 @@
 theme: minima
-header_pages:
-  - index.md
-  - codemethod.md
+  skin: classic
+  header_pages:
+    - index.md
+    - codemethod.md
