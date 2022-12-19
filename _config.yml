@@ -6,4 +6,5 @@ skin: classic
 header_pages:
   - index.md
   - codemethod.md
+  - databasecompile.md
 

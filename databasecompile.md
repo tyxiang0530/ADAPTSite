@@ -1,7 +1,7 @@
 ---
 title: How the database is compiled
 layout: default
-filename: database.md
+filename: databasecompile.md
 --- 
 # Database Compilation
 
