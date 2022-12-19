@@ -1,4 +1,11 @@
+title: ADAPT, A Tool for Analyzing Physicists Found in Textbooks
+author:
+  name: Tai Xiang
+  email: txaa2019@mymail.pomona.edu
+
 theme: minima
+skin: classic
 header_pages:
   - index.md
   - codemethod.md
+
