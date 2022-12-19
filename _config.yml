@@ -4,7 +4,7 @@ author:
   email: txaa2019@mymail.pomona.edu
 
 theme: minima
-  skin: classic
+skin: classic
 header_pages:
   - index.md
   - codemethod.md
