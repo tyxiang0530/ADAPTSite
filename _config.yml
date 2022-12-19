@@ -1,5 +1,17 @@
 theme: minima
   skin: classic
-  header_pages:
-    - index.md
-    - codemethod.md
+header_pages:
+  - index.md
+  - codemethod.md
+title: ADAPT: A Tool for Analyzing Physicists Found in Textbooks
+author:
+  name: Tai Xiang
+  email: txaa2019@mymail.pomona.edu
+description: > 
+  Additional information on methodology, error, database compilation, and more for ADAPT.
+show_excerpts: true
+
+# Minima date format
+minima:
+  date_format: "%b %-d, %Y"
+
