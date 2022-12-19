@@ -3,7 +3,7 @@ author:
   name: Tai Xiang
   email: txaa2019@mymail.pomona.edu
 
-theme: minima
+theme: jekyll-theme-minima
 skin: classic
 header_pages:
   - index.md
