@@ -1,17 +1,17 @@
 ---
 title: How the Code Works
-layout: template
+layout: default
 filename: codemethod.md
 --- 
 # How the Code Works
 
 ADAPT is capable of either analyzing an entire textbook or an index. For the majority of the paper, we analyze indices as their shorter length enables us to get scans of them while still remaining within fair use.
 
-The tool consists of two primary phases. The first portion involves matching out the names found within the textbook and the second phase involves querying their demographic information.
+The tool consists of two primary phases. The first portion involves matching out the names found within the textbook and the second phase involves querying their demographic information. The below flowchart displays the basic routine run by ADAPT.
 
 <figure>
   <img
-  src="https://www.overleaf.com/project/62968e531460d46903dd7e81/file/62968e531460d4f88bdd7ea7"
+  src="flowchart(1).png"
   alt="Flowchart of how ADAPT examines a textbook index and grabs out the names.">
   <figcaption>A simplified illustration of how ADAPT examines a textbook index to identify names, before updating the database with identified names and demographics and then outputting a file with a list of scientists mentioned in the index together with their demographics.  The input file can either be a source PDF of a textbook index or a PDF of a scanned-in hard copy index that has been subjected to optical character recognition.  The methods used to obtain demographic information are detailed in the text.</figcaption>
 </figure>
